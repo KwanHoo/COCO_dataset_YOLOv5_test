@@ -4,9 +4,18 @@
 #### YOLO v5 object detection test using COCO dataset 
 #### 데이터셋 : COCO(comman object in context) : 마이크로 소프트에서 만든 객체탐지에 사용되는 데이터셋
 #### train 이미지 수 : 116408, validation 이미지 수 : 5000
-#### 모델 : YOLO v5, batch : 16, epochs: 1, imagesize: 640
-####  1 에폭 학습시키는데 구글 코랩 gpu 기준 1시간정도 소요됨
+#### 모델 : YOLO v5  
 
+
+### 8.11. first test
+#### batch : 16
+#### epochs: 1
+#### imagesize: 640  
+####  1 에폭 학습시키는데 구글 코랩 gpu 기준 1시간정도 소요됨  
+
+
+### 8.18. additional tests
+#### epochs: 15
 
 
 
@@ -63,6 +72,8 @@
 ### validation_batch_predict_2
 ![val_batch2_pred](https://user-images.githubusercontent.com/49335804/128991332-151ddc5c-5463-4101-9c66-c049dc53da48.jpg)
 
+  
+## 8.11. test results
 
 # YOLO data image test
 ![000000016439_jpg rf 5799f1641ecbe657b77f74f6c11ab883](https://user-images.githubusercontent.com/49335804/128991564-1aeea6b1-5191-473f-93d2-58ed62208c38.jpg)    
@@ -90,11 +101,29 @@
 ![KakaoTalk_20210811_144832280_06](https://user-images.githubusercontent.com/49335804/128992719-dc37143d-6faa-4c24-9293-a14179d79970.jpg)    
 ![KakaoTalk_20210811_144832280_08](https://user-images.githubusercontent.com/49335804/128992760-4c53812e-efeb-46ca-a23d-4548b8adce7c.jpg)
 
+  
+  
+  
+## 8.18. test results  
 
 
+# EnlightenGAN으로 조도개선 img 객체탐지 테스트
+![dst3_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/129852066-fada550f-ffc6-4d47-8a48-decf9a5ac821.png)
+![dst5_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/129852126-9b6736df-d4a2-4f82-9117-4b39967fb3d6.png)
+![dst12_screenshot_11 08 2021](https://user-images.githubusercontent.com/49335804/129852175-906b3067-0fd9-49b4-99e2-331440ebdb89.png)
+![KakaoTalk_20210720_213727400](https://user-images.githubusercontent.com/49335804/129852218-0c559b86-7c1e-45ad-aa27-157776c97cb0.jpg)
+  
+  
+  
+# gray scale img 객체탐지 테스트
+![KakaoTalk_20210811_144832280](https://user-images.githubusercontent.com/49335804/129852313-22e5cce8-a16a-4527-b4eb-38656890e4ca.jpg)
+![KakaoTalk_20210811_144832280_01](https://user-images.githubusercontent.com/49335804/129853010-30c0345d-bffd-4e53-b0bd-359e60a15e3c.jpg)
+![KakaoTalk_20210811_144832280_02](https://user-images.githubusercontent.com/49335804/129853041-d6eba926-dadd-48a0-90ed-e09019d191a8.jpg)
+![KakaoTalk_20210811_144832280_03](https://user-images.githubusercontent.com/49335804/129853071-5f4f3ac3-fb1e-4b73-a4de-5e1955a3d872.jpg)
+![KakaoTalk_20210811_144832280_04](https://user-images.githubusercontent.com/49335804/129853097-907c2208-ea63-4ac6-952d-4389d6c0afad.jpg)
+![KakaoTalk_20210811_144832280_05](https://user-images.githubusercontent.com/49335804/129853125-c8a2d0af-682a-4475-abc5-26f656ab83f8.jpg)
+![KakaoTalk_20210811_144832280_06](https://user-images.githubusercontent.com/49335804/129853145-756a9666-d595-4597-a811-5f89dfc82531.jpg)
+![KakaoTalk_20210811_144832280_07](https://user-images.githubusercontent.com/49335804/129853172-313d39bc-26ff-485b-91c0-0b9983d68e62.jpg)
+![KakaoTalk_20210811_144832280_08](https://user-images.githubusercontent.com/49335804/129853203-bb4788fd-3e91-4441-95a7-1bac162fe4d5.jpg)
 
-
-
-
-
-
+  
