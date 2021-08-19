@@ -7,15 +7,19 @@
 #### 모델 : YOLO v5  
 
 
-### 8.11. first test
-#### batch : 16
-#### epochs: 1
-#### imagesize: 640  
-####  1 에폭 학습시키는데 구글 코랩 gpu 기준 1시간정도 소요됨  
+# ---- 8.11. first test ----
+- batch : 16
+- epochs: 1
+- imagesize: 640  
+- 1 에폭 학습시키는데 구글 코랩 gpu 기준 1시간정도 소요됨  
 
 
-### 8.18. additional tests
-#### epochs: 15
+# ---- 8.18. additional tests  ----
+- epochs: 15, confidence : 0.5
+
+
+# ---- 8.19. additional tests ----
+- epochs: 15, confidence : 0.25
 
 
 
@@ -73,7 +77,7 @@
 ![val_batch2_pred](https://user-images.githubusercontent.com/49335804/128991332-151ddc5c-5463-4101-9c66-c049dc53da48.jpg)
 
   
-## 8.11. test results
+# -------------------------- 8.11. test results --------------------------
 
 # YOLO data image test
 ![000000016439_jpg rf 5799f1641ecbe657b77f74f6c11ab883](https://user-images.githubusercontent.com/49335804/128991564-1aeea6b1-5191-473f-93d2-58ed62208c38.jpg)    
@@ -104,7 +108,7 @@
   
   
   
-## 8.18. test results  
+# -------------------------- 8.18. test results --------------------------
 
 
 # EnlightenGAN으로 조도개선 img 객체탐지 테스트
@@ -125,5 +129,30 @@
 ![KakaoTalk_20210811_144832280_06](https://user-images.githubusercontent.com/49335804/129853145-756a9666-d595-4597-a811-5f89dfc82531.jpg)
 ![KakaoTalk_20210811_144832280_07](https://user-images.githubusercontent.com/49335804/129853172-313d39bc-26ff-485b-91c0-0b9983d68e62.jpg)
 ![KakaoTalk_20210811_144832280_08](https://user-images.githubusercontent.com/49335804/129853203-bb4788fd-3e91-4441-95a7-1bac162fe4d5.jpg)
+
+
+# -------------------------- 8.19. test results --------------------------
+
+
+# EnlightenGAN으로 조도개선 img 객체탐지 테스트
+![dst3_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/130029321-b1886d8f-578a-4a88-af6f-b12c659b6268.png)
+![dst5_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/130029459-12448ebf-49f0-45f2-8f53-9528ce8ccd01.png)
+![dst12_screenshot_11 08 2021](https://user-images.githubusercontent.com/49335804/130029606-8229ef27-b38e-4692-acc4-9efdc1d70575.png)
+![KakaoTalk_20210720_213727400](https://user-images.githubusercontent.com/49335804/130029645-08907d61-bc62-4408-9ae8-f016e755b7c0.jpg)
+
+
+# gray scale img 객체탐지 테스트
+
+![KakaoTalk_20210811_144832280](https://user-images.githubusercontent.com/49335804/130029677-165cb9ab-b4d1-4f55-b81a-09eea1e3606f.jpg)
+![KakaoTalk_20210811_144832280_01](https://user-images.githubusercontent.com/49335804/130029711-9f4df3ec-c346-43da-a26a-9ab8158f4d72.jpg)
+![KakaoTalk_20210811_144832280_02](https://user-images.githubusercontent.com/49335804/130029796-4d955cd9-53e8-462f-ac9f-0e79f99182d5.jpg)
+![KakaoTalk_20210811_144832280_03](https://user-images.githubusercontent.com/49335804/130029843-66b657d4-fa8e-4551-afb2-7b11394dd4f0.jpg)
+![KakaoTalk_20210811_144832280_04](https://user-images.githubusercontent.com/49335804/130029879-2407e35c-8950-4b50-bf20-c8485a158f3b.jpg)
+![KakaoTalk_20210811_144832280_05](https://user-images.githubusercontent.com/49335804/130029906-1a8c98d0-7c33-408c-bfdb-38810d29b0bb.jpg)
+![KakaoTalk_20210811_144832280_06](https://user-images.githubusercontent.com/49335804/130029972-22f7cd7b-df84-499e-9bdf-ab620bfe44fe.jpg)
+![KakaoTalk_20210811_144832280_07](https://user-images.githubusercontent.com/49335804/130030014-2078a000-0ee2-4703-84c8-c06d61fe34a0.jpg)
+![KakaoTalk_20210811_144832280_08](https://user-images.githubusercontent.com/49335804/130030024-8cbf711f-0622-4d37-ac7b-05b4cd6597ab.jpg)
+
+
 
   
