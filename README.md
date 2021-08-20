@@ -35,12 +35,12 @@
 
 
 ### Video, 동영상 객체탐지 테스트
-[![해변 객체탐지 결과 동영상](https://img.youtu.com/vi/8c1HasnaJiM/0.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
+[![해변 객체탐지 결과 동영상](https://img.youtube.com/vi/8c1HasnaJiM/0.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
 
-[![조류 객체탐지 결과 동영상](https://img.youtu.com/vi/bg1oSqC3mUE/0.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
+[![조류 객체탐지 결과 동영상](https://img.youtube.com/vi/bg1oSqC3mUE/0.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
 
   
-[![고양이 객체탐지 결과 동영상](https://img.youtu.com/vi/S7pmJrnsRJ0/1.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
+[![고양이 객체탐지 결과 동영상](https://img.youtube.com/vi/S7pmJrnsRJ0/1.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
 
 
 ### EnlightenGAN으로 조도개선 img 객체탐지 테스트
