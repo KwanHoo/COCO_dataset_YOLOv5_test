@@ -53,12 +53,12 @@
 
 
 ## Video, 동영상 객체탐지 테스트
-[![해변 영상 객체탐지](https://youtu.be/8c1HasnaJiM/0.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
+[![해변 영상 객체탐지](https://youtu.be/8c1HasnaJiM/1.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
 
-[![새 영상 객체탐지](https://youtu.be/bg1oSqC3mUE/0.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
+[![새 영상 객체탐지](https://youtu.be/bg1oSqC3mUE/1.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
 
   
-[![고양이 영상 객체탐지](https://youtu.be/S7pmJrnsRJ0/0.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
+[![고양이 영상 객체탐지](https://youtu.be/S7pmJrnsRJ0/1.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
             
 
 # ---------------------- 8.19. test results 5 epochs----------
