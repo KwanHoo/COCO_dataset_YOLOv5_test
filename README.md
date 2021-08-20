@@ -15,11 +15,11 @@
 
 
 # ---- 8.18. additional tests  ----
-- epochs: 3, confidence : 0.5
+- epochs: 2, confidence : 0.5
 
 
 # ---- 8.19. additional tests ----
-- epochs: 5, confidence : 0.25
+- epochs: 3, confidence : 0.25
 
 
 # ---- 8.20. additional tests ----
@@ -29,7 +29,18 @@
 # ======= test results ==============
 
 
-# ---------------------- 8.20. test results 30 epochs--------
+
+
+# ---------------------- 8.20. test results 30 epochs
+
+
+## Video, 동영상 객체탐지 테스트
+[![해변 영상 객체탐지] (https://youtu.be/8c1HasnaJiM/1.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
+
+[![새 영상 객체탐지] (https://youtu.be/bg1oSqC3mUE/1.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
+
+  
+[![고양이 영상 객체탐지] (https://youtu.be/S7pmJrnsRJ0/1.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
 
 
 ## EnlightenGAN으로 조도개선 img 객체탐지 테스트
@@ -52,16 +63,10 @@
 ![grayimage5](https://user-images.githubusercontent.com/49335804/130185598-bdc0d0d1-702c-498e-9a38-5a67910c5e6c.jpg)
 
 
-## Video, 동영상 객체탐지 테스트
-[![해변 영상 객체탐지](https://youtu.be/8c1HasnaJiM/1.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
 
-[![새 영상 객체탐지](https://youtu.be/bg1oSqC3mUE/1.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
-
-  
-[![고양이 영상 객체탐지](https://youtu.be/S7pmJrnsRJ0/1.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
             
 
-# ---------------------- 8.19. test results 5 epochs----------
+# ---------------------- 8.19. test results 3 epochs
 
 
 ## EnlightenGAN으로 조도개선 img 객체탐지 테스트
@@ -91,7 +96,7 @@
 
 
   
-# ---------------------- 8.18. test results 3 epochs----------
+# ---------------------- 8.18. test results 2 epochs
 
 
 ## EnlightenGAN으로 조도개선 img 객체탐지 테스트
@@ -115,7 +120,7 @@
 
 
   
-# -------------------- 8.11. test results 1 epochs--------------
+# -------------------- 8.11. test results 1 epochs
 
 ## YOLO data image test
 ![000000016439_jpg rf 5799f1641ecbe657b77f74f6c11ab883](https://user-images.githubusercontent.com/49335804/128991564-1aeea6b1-5191-473f-93d2-58ed62208c38.jpg)    
