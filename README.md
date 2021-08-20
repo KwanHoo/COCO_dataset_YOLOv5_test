@@ -26,13 +26,13 @@
 - epochs: 30, confidence : 0.25
 
 
-# ============== test results ================
+# ======= test results ==============
 
 
 # ---------------------- 8.20. test results 30 epochs--------
 
 
-# EnlightenGAN으로 조도개선 img 객체탐지 테스트
+## EnlightenGAN으로 조도개선 img 객체탐지 테스트
 ![dst3_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/130185291-cb33a7fb-04c8-4601-a4c5-cdccfed7ccdc.png)
 ![dst5_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/130185301-409619cf-afbe-4f8d-bccc-30c170f60f0e.png)
 ![dst6_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/130185326-57285b29-bf88-406d-bc1c-d9bf9c9adea6.png)
@@ -40,7 +40,7 @@
 ![elgan](https://user-images.githubusercontent.com/49335804/130185405-a8750dfb-3359-4af2-8e3b-57b92d251cf6.jpg)
 
   
-# gray scale img 객체탐지 테스트
+## gray scale img 객체탐지 테스트
 ![grayimage1](https://user-images.githubusercontent.com/49335804/130185479-c54dcd6e-65fe-4922-a518-6819b7e72bf3.jpg)
 ![grayimage2](https://user-images.githubusercontent.com/49335804/130185530-33b38fef-d4d6-4b67-bec5-78dfd6db9ba5.jpg)
 ![grayimage3](https://user-images.githubusercontent.com/49335804/130185463-e35d70ec-9112-4f91-8fb5-0326a093637c.jpg)
@@ -52,30 +52,26 @@
 ![grayimage5](https://user-images.githubusercontent.com/49335804/130185598-bdc0d0d1-702c-498e-9a38-5a67910c5e6c.jpg)
 
 
-# Video, 동영상 객체탐지 테스트
+## Video, 동영상 객체탐지 테스트
+[![해변 영상 객체탐지](https://youtu.be/8c1HasnaJiM/0.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
 
-<iframe width="667" height="375" src="https://www.youtube.com/embed/8c1HasnaJiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[![새 영상 객체탐지](https://youtu.be/bg1oSqC3mUE/0.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
 
   
-<iframe width="768" height="432" src="https://www.youtube.com/embed/bg1oSqC3mUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-      
-<iframe width="768" height="432" src="https://www.youtube.com/embed/S7pmJrnsRJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          
+[![고양이 영상 객체탐지](https://youtu.be/S7pmJrnsRJ0/0.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
+            
 
 # ---------------------- 8.19. test results 5 epochs----------
 
 
-# EnlightenGAN으로 조도개선 img 객체탐지 테스트
+## EnlightenGAN으로 조도개선 img 객체탐지 테스트
 ![dst3_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/130029321-b1886d8f-578a-4a88-af6f-b12c659b6268.png)
 ![dst5_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/130029459-12448ebf-49f0-45f2-8f53-9528ce8ccd01.png)
 ![dst12_screenshot_11 08 2021](https://user-images.githubusercontent.com/49335804/130029606-8229ef27-b38e-4692-acc4-9efdc1d70575.png)
 ![KakaoTalk_20210720_213727400](https://user-images.githubusercontent.com/49335804/130029645-08907d61-bc62-4408-9ae8-f016e755b7c0.jpg)
 
 
-# gray scale img 객체탐지 테스트
+## gray scale img 객체탐지 테스트
 
 ![KakaoTalk_20210811_144832280](https://user-images.githubusercontent.com/49335804/130029677-165cb9ab-b4d1-4f55-b81a-09eea1e3606f.jpg)
 ![KakaoTalk_20210811_144832280_01](https://user-images.githubusercontent.com/49335804/130029711-9f4df3ec-c346-43da-a26a-9ab8158f4d72.jpg)
@@ -98,7 +94,7 @@
 # ---------------------- 8.18. test results 3 epochs----------
 
 
-# EnlightenGAN으로 조도개선 img 객체탐지 테스트
+## EnlightenGAN으로 조도개선 img 객체탐지 테스트
 ![dst3_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/129852066-fada550f-ffc6-4d47-8a48-decf9a5ac821.png)
 ![dst5_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/129852126-9b6736df-d4a2-4f82-9117-4b39967fb3d6.png)
 ![dst12_screenshot_11 08 2021](https://user-images.githubusercontent.com/49335804/129852175-906b3067-0fd9-49b4-99e2-331440ebdb89.png)
@@ -106,7 +102,7 @@
   
   
   
-# gray scale img 객체탐지 테스트
+## gray scale img 객체탐지 테스트
 ![KakaoTalk_20210811_144832280](https://user-images.githubusercontent.com/49335804/129852313-22e5cce8-a16a-4527-b4eb-38656890e4ca.jpg)
 ![KakaoTalk_20210811_144832280_01](https://user-images.githubusercontent.com/49335804/129853010-30c0345d-bffd-4e53-b0bd-359e60a15e3c.jpg)
 ![KakaoTalk_20210811_144832280_02](https://user-images.githubusercontent.com/49335804/129853041-d6eba926-dadd-48a0-90ed-e09019d191a8.jpg)
@@ -121,7 +117,7 @@
   
 # -------------------- 8.11. test results 1 epochs--------------
 
-# YOLO data image test
+## YOLO data image test
 ![000000016439_jpg rf 5799f1641ecbe657b77f74f6c11ab883](https://user-images.githubusercontent.com/49335804/128991564-1aeea6b1-5191-473f-93d2-58ed62208c38.jpg)    
 ![000000133645_jpg rf f349ed8b89e02746dfc2fc2f6a19d1ad](https://user-images.githubusercontent.com/49335804/128991667-230d46a2-a6fe-4122-8bcc-342dc72365c3.jpg)    
 ![000000214192_jpg rf 2a14b7534dfe02879327b5a89f618cb2](https://user-images.githubusercontent.com/49335804/128991699-1985ccee-da7f-4733-ac17-3ccb687c5479.jpg)    
@@ -131,14 +127,14 @@
 ![bus](https://user-images.githubusercontent.com/49335804/128991840-adc63cf3-b101-4324-8ad0-7c80048541f6.jpg)    
 
 
-# EnlightenGAN으로 조도개선 img 객체탐지 테스트
+## EnlightenGAN으로 조도개선 img 객체탐지 테스트
 ![dst3_screenshot_02 08 2021](https://user-images.githubusercontent.com/49335804/128991997-1a741eb8-d469-469c-87eb-3c93e9d1bb21.png)        
 <img src="https://user-images.githubusercontent.com/49335804/128992069-61a13535-7f22-4bb3-8f66-887036a38487.jpg" width="50%" height="50%"/>      
 
 
 
 
-# gray scale img 객체탐지 테스트
+## gray scale img 객체탐지 테스트
 ![KakaoTalk_20210811_144832280](https://user-images.githubusercontent.com/49335804/128992374-6723279f-36ae-4346-aafa-2fd236146423.jpg)    
 ![KakaoTalk_20210811_144832280_01](https://user-images.githubusercontent.com/49335804/128992435-8431eac9-0c92-459f-a65c-690708d0b834.jpg)    
 ![KakaoTalk_20210811_144832280_02](https://user-images.githubusercontent.com/49335804/128992476-99fe50ce-050e-4f3c-a6d6-2e023a7d8205.jpg)    
