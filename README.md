@@ -27,7 +27,46 @@
 
 
 # ======= test results ==============
+    
+    
+# ---------------------- 8.22. test video results 30 에폭
+### Video, 동영상 객체탐지 테스트
+#### (썸네일 클릭시 영상 링크로 이동)
+#### (Click the thumbnail to move the video link)
 
+#### 공항 객체 탐지 결과 동영상 (사람, 핸드백)
+[![공항 객체 탐지 동영상](https://img.youtube.com/vi/21hgtK4pJYc/0.jpg)](https://youtu.be/21hgtK4pJYc?t=0s)
+
+#### 비오는 날 객체 탐지 결과 동영상 ( 자동차, 사람, 우산)
+[![비오는 날 객체 탐지 동영상](https://img.youtube.com/vi/s9jIqjurve8/0.jpg)](https://youtu.be/s9jIqjurve8?t=0s)
+
+
+#### 폭동 객체 탐지 결과 동영상 (사람)
+[![폭동 객체 탐지 동영상](https://img.youtube.com/vi/BwrCmUMvbhA/0.jpg)](https://youtu.be/BwrCmUMvbhA?t=0s)
+
+
+#### 서울 거리 객체 탐지 결과 동영상 (사람)
+[![서울 거리 객체 탐지 동영상](https://img.youtube.com/vi/ubPpI1eGbxY/0.jpg)](https://youtu.be/ubPpI1eGbxY?t=0s)
+
+
+#### 백조 객체 탐지 결과 동영상 (bird)
+[![백조 객체 탐지 동영상](https://img.youtube.com/vi/SYTPLsCIAgA/0.jpg)](https://youtu.be/SYTPLsCIAgA?t=0s)
+
+#### 싱가포르 거리 객체 탐지 결과 동영상 (사람, 자동차, 버스, 신호등)
+[![싱가포르 거리 객체탐지 동영상](https://img.youtube.com/vi/xjN-PSBDvFw/0.jpg)](https://youtu.be/xjN-PSBDvFw?t=0s)
+
+
+#### 말 객체 탐지 결과 동영상 : 클래스 오분류 사례 (cow, dog)
+[![말 객체 탐지 동영상](https://img.youtube.com/vi/LtuJhR1jpFc/0.jpg)](https://youtu.be/LtuJhR1jpFc?t=0s)
+
+#### 잉어 객체 탐지 결과 동영상 : 클래스 오분류 사례 (hotdog, carrot)
+[![잉어 객체탐지 동영상](https://img.youtube.com/vi/WAY1b-U0MZg/o.jpg)](https://youtu.be/WAY1b-U0MZg?t=0s)
+
+#### 사슴 무리 객체 탐지 결과 동영상 : 클래스 오분류 사례 (horse)
+[![사슴 무리 객체 탐지 동영상](https://img.youtube.com/vi/Y8hRYgg6xeU/0.jpg)](https://youtu.be/Y8hRYgg6xeU?t=0s)
+
+#### 사슴 이동 객체 탐지 결과 동영상 : 클래스 오분류 사례 (horse)
+[![사슴 이동 객체 탐지 동영상](https://img.youtube.com/vi/T-SSL0RLLRU/0.jpg)](https://youtu.be/T-SSL0RLLRU?t=0s)
 
 
 
@@ -40,15 +79,10 @@
 
 
 #### 해변 객체 탐지 결과 동영상
-[![해변 객체탐지 결과 동영상](https://img.youtube.com/vi/8c1HasnaJiM/0.jpg)](https://youtu.be/8c1HasnaJiM?t=0x)
-
-
+[![해변 객체탐지 결과 동영상](https://img.youtube.com/vi/8c1HasnaJiM/0.jpg)](https://youtu.be/8c1HasnaJiM?t=0s)
     
 #### 조류 객체 탐지 결과 동영상
 [![조류 객체탐지 결과 동영상](https://img.youtube.com/vi/bg1oSqC3mUE/0.jpg)](https://youtu.be/bg1oSqC3mUE?t=0s)
-
-  
-  
   
 #### 고양이 객체 탐지 결과 동영상
 [![고양이 객체탐지 결과 동영상](https://img.youtube.com/vi/S7pmJrnsRJ0/1.jpg)](https://youtu.be/S7pmJrnsRJ0?t=0s)
