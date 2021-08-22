@@ -60,7 +60,7 @@
 [![말 객체 탐지 동영상](https://img.youtube.com/vi/LtuJhR1jpFc/0.jpg)](https://youtu.be/LtuJhR1jpFc?t=0s)
 
 #### 잉어 객체 탐지 결과 동영상 : 클래스 오분류 사례 (hotdog, carrot)
-[![잉어 객체탐지 동영상](https://img.youtube.com/vi/WAY1b-U0MZg/o.jpg)](https://youtu.be/WAY1b-U0MZg?t=0s)
+[![잉어 객체탐지 동영상](https://img.youtube.com/vi/WAY1b-U0MZg/0.jpg)](https://youtu.be/WAY1b-U0MZg?t=0s)
 
 #### 사슴 무리 객체 탐지 결과 동영상 : 클래스 오분류 사례 (horse)
 [![사슴 무리 객체 탐지 동영상](https://img.youtube.com/vi/Y8hRYgg6xeU/0.jpg)](https://youtu.be/Y8hRYgg6xeU?t=0s)
